@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3e1f74eeaf5d024583ae145c3c75b7c, type: 3}
+  m_Name: FireBall
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1260974908287166446, guid: d85b78d7724ab7148a5a88ea36e83539, type: 3}
+  sprite: {fileID: 21300000, guid: dd3885098198d104888439be4c590aba, type: 3}
+  objectName: FireBall
+  cost: 2
